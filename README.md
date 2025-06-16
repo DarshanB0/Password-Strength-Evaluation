@@ -28,7 +28,7 @@ _____
 /_____
 
 # tips for stronng password :
-    - Minnimum 12 characters
+    - Minimum 12 characters
     - Use upper + lower case letters
     - Add nunmbers and symbols
     - Avoid personal info or common words
